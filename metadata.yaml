@@ -1,0 +1,36 @@
+_repo: Luther-s-Small-CatechismExplained-in-Questions-and-Answers_36081
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Urseth, Hans Andreas
+    alias: Urseth, H. A.
+    birthdate: 1866
+    deathdate: 1909
+    gutenberg_agent_id: '38071'
+    url: http://www.gutenberg.org/2009/agents/38071
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sverdrup, Harald Ulrik
+    alias: Sverdrup, H. U. (Harald Ulrik)
+    birthdate: 1813
+    deathdate: 1891
+    gutenberg_agent_id: '38070'
+    url: http://www.gutenberg.org/2009/agents/38070
+description: ''
+gutenberg_issued: '2011-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luther, Martin, 1483-1546. Kleine Katechismus'
+- !lcsh 'Lutheran Church -- Catechisms'
+- !lcc 'BX'
+title: Luther's Small Catechism Explained in Questions and Answers
+url: http://www.gutenberg.org/ebooks/36081
